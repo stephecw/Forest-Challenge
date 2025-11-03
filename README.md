@@ -26,7 +26,7 @@ The dataset contains **15,120 labeled samples** and **7 target classes** corresp
 | Metric         | Score |
 |----------------|-------|
 | Validation set | **90.1% accuracy** |
-| Kaggle public leaderboard | **85.4% accuracy** |
+| Kaggle leaderboard | **85.4% accuracy** |
 
 ### ⚙️ Workflow
 
