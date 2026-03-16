@@ -62,6 +62,7 @@ The dataset contains **15,120 labeled samples** and **7 target classes** corresp
 8. **Submission**  
    - Generate CSV submission files for Kaggle  
    - Kaggle score: **85.4% accuracy**
+   - Rank: 5/46
 
 
 
